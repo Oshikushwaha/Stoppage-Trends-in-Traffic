@@ -1,4 +1,4 @@
-# Traffic-Stoppage-Analysis
+# Stoppage-Trends-in-Traffic
 
 Objective: The main objective of the Stanford Open Policing Project is to collect, standardize, and release traffic stop and search data from various U.S. police departments. This dataset enables detailed analysis and understanding of racial and ethnic disparities in policing, as well as other issues surrounding police behavior and practices.
 
@@ -20,10 +20,10 @@ For this project, we chose the San Diego dataset due to the Volume available and
 ## Dataset: https://openpolicing.stanford.edu/data/
 
 - Number of Stoppages Month and Year Wise
-![Number of Stoppages Month and Year Wise](https://github.com/rsengar7/Traffic-Stoppage-Analysis/blob/main/Images/Number_of_Stoppages_Month_and_Year_Wise.png)
+![Number of Stoppages Month and Year Wise](https://github.com/Oshikushwaha/Stoppage-Trends-in-Traffic/blob/main/Images/Number_of_Stoppages_Month_and_Year_Wise.png)
 
 - Visualization Report
-![Report](https://github.com/rsengar7/Traffic-Stoppage-Analysis/blob/main/Images/Traffic%20Stoppage%20Analysis.png)
+![Report](https://github.com/Oshikushwaha/Stoppage-Trends-in-Traffic/blob/main/Images/Traffic%20Stoppage%20Analysis.png)
 
 
 ### Approach
